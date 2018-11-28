@@ -1,5 +1,7 @@
 # Class 3: HTML Lists, Control Flow with JS, and the CSS Box Model
 
+[Allie's Code Pen](https://codepen.io/pen/?editors=1100#)
+
 <a id="top"></a>
 ## Lecture 3
 
