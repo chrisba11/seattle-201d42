@@ -1,0 +1,10 @@
+section img {
+  border: 5px solid black;
+  height: 300px;
+  /* width: 300px; */
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 35px;
+}
