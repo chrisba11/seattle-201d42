@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Class 7 Table Demo</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  </head>
+  <body>
+    <h1>Dogs I Know</h1>
+    
+    <form id="dog-form">
+      <fieldset>
+        <legend>Add a New Dog</legend>
+
+        <label for="name">Name</label>
+        <input id="name" type="text" name="dogname" required/>
+
+        <label for="color">Color</label>
+        <input id="color" type="text" name="dogcolor"/>
+
+        <label for="breed">Breed</label>
+        <input id="breed" type="text" name="dogbreed"/>
+
+        <label for="nickname">Nickname</label>
+        <input id="nickname" type="text" name="dognickname"/>
+
+        <button>Add A Dog</button>
+      </fieldset>
+    </form>
+
+    <table id="dogs"></table>
+
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,5 +1,7 @@
 # Class 8: HTML Forms and JS Events
 
+[Today's Code Pen](https://codepen.io/agrampa/pen/YRoVNZ?editors=1010)
+
 <a id="top"></a>
 ## Lecture 8
 
