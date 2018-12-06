@@ -1,5 +1,9 @@
 # Class 9: Advanced Topics in CSS Layout
 
+[Table Code Pen](https://codepen.io/agrampa/pen/eQqeQg?editors=0100)
+
+[Wireframe Code Pen (from Allie's 201d34 class)](https://codepen.io/agrampa/pen/YaMwzo)
+
 <a id="top"></a>
 ## Lecture 9
 
